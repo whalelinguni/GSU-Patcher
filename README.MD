@@ -37,7 +37,7 @@ Put script in 'MRI' dir with 'GSCommon.dll' and run to patch.
 3. **Run the patch script:**
 
    ```bash
-   python patch_gscommon.py
+   python gsu-patch.py
    ```
 
 4. **Verify the output:**
